@@ -1,0 +1,47 @@
+.cls_App {
+  margin: 25px auto;
+  text-align: center;
+}
+
+.cls_InpWrapper, input[name="taskDesc"],.cls_AddBtn {
+  display: inline-block;
+}
+
+input.cls_TaskInput {
+  height: 50px;
+  padding: 0px 20px;
+}
+
+.cls_AddBtn {
+  background-color: blueviolet;
+  height: 55px;
+  vertical-align: middle;
+  padding: 0px 20px;
+  line-height: 4;
+  font-size: 14px;
+  cursor: pointer;
+  user-select: none;
+}
+
+.cls_AppTitle {
+  margin: 20px 0px;
+}
+
+.cls_ListWrapper {
+  margin: 20px auto;
+  width: 300px;
+}
+
+.cls_ListCont {
+  border: solid 1px;
+  padding: 20px 15px;
+  text-align: left;
+}
+
+.cls_removeBtn {
+  float: right;
+  font-size: 10px;
+  line-height: 24px;
+  cursor: pointer;
+  user-select: none;
+}
